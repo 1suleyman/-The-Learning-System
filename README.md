@@ -19,10 +19,9 @@ It contains:
 - Full learning paths (Linux, AWS, Terraform, etc.)
 - Hands-on labs
 - Projects + certifications
-- Deep-dive explanations
 
 👉 **Explore here:**  
-🔗 https://github.com/1suleyman/Tech-Journey
+🔗 [My tech journey](https://github.com/1suleyman/Tech-Journey)
 
 ---
 
@@ -36,8 +35,8 @@ This repo focuses on:
 - Re-learning concepts properly
 - Small, focused labs (e.g. networking, ports, HTTP vs HTTPS)
 
-👉 **Coming soon:**  
-🔗 Coming soon — actively building this repository
+👉 **Explore here:**  
+🔗 [Filling the gaps](https://github.com/1suleyman/Filling-the-Gaps/tree/main)
 
 ---
 
