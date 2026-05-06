@@ -40,12 +40,6 @@ This repo focuses on:
 
 ---
 
-## 🧠 Why I Built This
-
-I focus on understanding deeply — revisiting concepts, breaking them down from first principles, and reinforcing them until they become second nature.
-
----
-
 ## 📈 The Goal
 
 To grow stronger as:
