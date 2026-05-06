@@ -53,7 +53,7 @@ To grow stronger as:
 
 If you're on a similar journey:
 
-- 💼 LinkedIn: Suleyman Mohamud  
+- 💼 LinkedIn: [Suleyman Mohamud](https://www.linkedin.com/in/suleyman-m-a74768221/)  
 
 ---
 
